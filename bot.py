@@ -7,7 +7,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import wikipedia
 
 wikipedia.set_lang("uz")
-TOKEN: Final = "6203832715:AAFDVwaRY1178eAUdMUZTAA240mAN3JuyX0"
+TOKEN: Final = "your token"
 BOT_USERNAME: Final = "@wikiuzpedbot"
 
 # commands
