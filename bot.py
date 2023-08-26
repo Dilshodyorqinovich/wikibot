@@ -1,3 +1,6 @@
+# python 3.11.4
+# pip install wikipedia
+# pip install python-telegram-bot 
 from typing import Final
 from telegram import _update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
